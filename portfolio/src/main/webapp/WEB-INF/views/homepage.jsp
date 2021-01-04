@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Insert title here</title>
+<title>홈페이지</title>
 <link rel="stylesheet" href="resources/homepage/css/all.css">
 <link rel="stylesheet" href="resources/homepage/css/bootstrap.min.css">
 <link rel="stylesheet" href="resources/homepage/css/style.css">
@@ -114,7 +114,7 @@
 
                     <!-- Subheading -->
                     <p class="mb-5">
-                        Industry Leading Managed Services and Staffing Solutions
+                        
                     </p>
 
                 </div>
@@ -217,21 +217,22 @@
                             <h4>강남 홍대 동대문 잠실</h4>
                         </div>
                         <div class="overlay-content">
-                            <a href="#"><i class="fa fa-link"></i></a>
+                            <a href="https://map.naver.com/v5/search/%EA%B0%95%EB%82%A8%20%EB%AF%B8%EC%A6%88%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88?placeSearchOption=fromNxList=true%26noredirect=1%26entry=pll&c=14139136.9240685,4511459.8281494,12,0,0,0,dh"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 mb-5">
                     <div class="portfolio-block">
-                        <img src="resources/homepage/img/siheung.jpg" alt="place">
+                        <img src="resources/homepage/img/sihueng.jpg" alt="place">
                         <div class="portfolio-content">
                             <h4>시흥</h4>
                         </div>
                         <div class="overlay-content">
-                            <a href="#"><i class="fa fa-link"></i></a>
+                            <a href="https://map.naver.com/v5/search/%EB%AF%B8%EC%A6%88%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EC%8B%9C%ED%9D%A5?placeSearchOption=fromNxList=true%26noredirect=1%26entry=pll&c=14108185.4337152,4492231.8605547,11,0,0,0,dh"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
                 </div>
+                
                 <div class="col-lg-4 col-md-6 col-sm-6 mb-5">
                     <div class="portfolio-block">
                         <img src="resources/homepage/img/mainkitchen.jpg" alt="place">
@@ -239,7 +240,7 @@
                             <h4>대구대 수성못</h4>
                         </div>
                         <div class="overlay-content">
-                            <a href="#"><i class="fa fa-link"></i></a>
+                            <a href="https://map.naver.com/v5/entry/place/1718662630?c=14343416.2011716,4287014.3952008,15,0,0,0,dh"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
                 </div>
@@ -250,7 +251,7 @@
                             <h4>김해 창원</h4>
                         </div>
                         <div class="overlay-content">
-                            <a href="#"><i class="fa fa-link"></i></a>
+                            <a href="https://map.naver.com/v5/search/%EB%AF%B8%EC%A6%88%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EA%B9%80%ED%95%B4?placeSearchOption=fromNxList=true%26noredirect=1%26entry=pll&c=14332988.4732146,4194986.9721545,10,0,0,0,dh"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
                 </div>
