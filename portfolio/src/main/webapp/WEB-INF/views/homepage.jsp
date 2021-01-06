@@ -368,8 +368,8 @@
                     <!-- Links -->
                     <ul class="footer-link list-unstyled ml-0 justify-content-end">
                         <li>
-                            <a href="#" class="text-white">
-							관리자페이지
+                            <a href="${pageContext.request.contextPath}/sample/member" class="text-white">
+							직원페이지
                             </a>
                         </li>
                     </ul>

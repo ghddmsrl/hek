@@ -8,5 +8,9 @@
 </head>
 <body>
 관리자
+<a href="${pageContext.request.contextPath}/sample/member">
+								<i class="fas fa-home"></i>
+								<p>대시보드</p>
+							</a>
 </body>
 </html>
