@@ -17,5 +17,7 @@
 		<!-- 들어갈 내용 -->
 		
 		테스트
+		
+		커밋 테스트1
 	</div>
 <%@include file="../include/footer.jsp"%> 
