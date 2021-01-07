@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import lombok.extern.log4j.Log4j;
 
 @Log4j
-@RequestMapping("/sample/*")
+@RequestMapping("/login/*")
 @Controller
-public class SampleController {
+public class LoginController {
 
 	@GetMapping("/all")
 	public void doAll(){
