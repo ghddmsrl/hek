@@ -33,7 +33,7 @@
 			<!-- Logo Header -->
 			<div class="logo-header" data-background-color="dark">
 				
-				<a href="${pageContext.request.contextPath}/sample/member" class="logo">
+				<a href="${pageContext.request.contextPath}/login/member" class="logo">
 					<i><b>Mies Container</b></i>
 				</a>
 				<button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -251,7 +251,7 @@
 					</div>
 					<ul class="nav nav-default">
 						<li class="nav-item active">
-							<a href="${pageContext.request.contextPath}/sample/member">
+							<a href="${pageContext.request.contextPath}/login/member">
 								<i class="fas fa-home"></i>
 								<p>대시보드</p>
 							</a>
@@ -277,7 +277,7 @@
 										</a>
 									</li>
 									<li>
-										<a href="#">
+										<a href="${pageContext.request.contextPath}/board/list">
 											<span class="sub-item">마감보고</span>
 										</a>
 									</li>

@@ -368,7 +368,7 @@
                     <!-- Links -->
                     <ul class="footer-link list-unstyled ml-0 justify-content-end">
                         <li>
-                            <a href="${pageContext.request.contextPath}/sample/member" class="text-white">
+                            <a href="${pageContext.request.contextPath}/login/member" class="text-white">
 							직원페이지
                             </a>
                         </li>
