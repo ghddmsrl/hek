@@ -21,4 +21,8 @@ jstl 콘솔창에는 제대로 입력이 되나 브라우저에 안나옴
 다시 백업본 만들어서 
 1월 6일 작업본으로 회귀 + pom.xml에 MyBatis, log4jdbc, lombok, jdbc 관련 라이브러리 추가
 
+1월 12일 커밋
+Test 확인이 안되어 처음부터 다시 만들어서 작성함.
+정상적으로 UnitTest 가능!
+
 내용 및 은 블로그에 저장 https://hong0916.tistory.com/
